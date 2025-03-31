@@ -10,7 +10,7 @@ Bug were:
 - We are strangers to add new features.
 - fixed 2.4 version showing up.
 - fixed servers not showing up.
-- improved the server foundable. so poeple can create custom server without using zerotier.
+- improved the server foundable. so people can create custom server without using zerotier.
 - a lot mods added in content.
 - creation for mods are added to shop.
 - gems and golds.
