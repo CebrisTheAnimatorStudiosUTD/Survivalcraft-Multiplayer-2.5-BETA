@@ -17,3 +17,8 @@ Bug were:
 - added guns.
 - improved username glitches, fixed game crashed with blue screen code with 0XC555993.
 - System's are changed.
+
+# 11.05.2025
+- This project Is closed as well this was known as april fools prank.
+- so this isnt real. I already quit SC.
+  
